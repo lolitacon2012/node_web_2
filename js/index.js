@@ -1,3 +1,5 @@
+alert("UNDER DEVELOPMENT");
+
 //initialize app vue
 var app = new Vue({
   el: '#app',
